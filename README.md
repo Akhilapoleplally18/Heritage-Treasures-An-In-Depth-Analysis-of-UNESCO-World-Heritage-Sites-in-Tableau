@@ -37,7 +37,7 @@ Heritage Treasures is a data analytics project that helps users:
 By combining data analysis with visual storytelling, **Heritage Treasures** not only presents facts but also inspires curiosity and appreciation for the world's most valued cultural and natural landmarks.
 
 
-🛠️ Tools & Technologies
+🛠️ **Tools & Technologies**
 | Component          | Description                                      | Technology Used             |
 | ------------------ | ------------------------------------------------ | --------------------------- |
 | User Interface     | Interactive dashboards                           | **Tableau Public**          |
@@ -54,15 +54,13 @@ By combining data analysis with visual storytelling, **Heritage Treasures** not 
 --Interactive Filters: Users can filter by region, site type, year, or country
 
 📁 **Dataset**
-Source:[Dataset link](https://www.kaggle.com/datasets/ujwalkandi/unesco-world-heritage-sites/data?select=whc-sites-2019.csv)
-
-Format: CSV
-
-Attributes: Site Name, Country, Region, Category, Year of Inscription, Description, Coordinates, etc.
+--Source:[Dataset link](https://www.kaggle.com/datasets/ujwalkandi/unesco-world-heritage-sites/data?select=whc-sites-2019.csv)
+--Format: CSV
+--Attributes: Site Name, Country, Region, Category, Year of Inscription, Description, Coordinates, etc.
 
 🚀 **How to View**
-You can view the dashboard on Tableau Public:
-🔗 [Click here to view the Dashboard](Profile - akhila.polepalli | Tableau Public)
+--You can view the dashboard on Tableau Public:
+--🔗 [Click here to view the Dashboard](https://public.tableau.com/app/profile/akhila.polepalli/vizzes)
 
 🧠 **Insights Gained**
 --Europe and Asia dominate the list of heritage sites
@@ -75,12 +73,9 @@ You can view the dashboard on Tableau Public:
 --Embed Tableau dashboard directly into a web application
 
 👨‍💻 **Author Info**
-
-🧑‍💻 Name: Akhila Polepalli
-
-📧 Gmail: [Mail id](akhilapolepally19@gmail.com)
-
-🔗 LinkedIn: [We can Connect Here🤝](https://www.linkedin.com/in/akhilapolepally11/)
+--🧑‍💻 Name: Akhila Polepalli
+--📧 Gmail: [Mail id](akhilapolepally19@gmail.com)
+--🔗 LinkedIn: [We can Connect Here🤝](https://www.linkedin.com/in/akhilapolepally11/)
 
 📜 **License**
 This project is created for academic and portfolio purposes. Feel free to fork or build upon it with credit.
