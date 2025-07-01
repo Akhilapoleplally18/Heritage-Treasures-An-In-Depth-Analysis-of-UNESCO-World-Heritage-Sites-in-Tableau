@@ -36,46 +36,44 @@ Heritage Treasures is a data analytics project that helps users:
 
 By combining data analysis with visual storytelling, **Heritage Treasures** not only presents facts but also inspires curiosity and appreciation for the world's most valued cultural and natural landmarks.
 
-
 🛠️ **Tools & Technologies**
 | Component          | Description                                      | Technology Used             |
 | ------------------ | ------------------------------------------------ | --------------------------- |
 | User Interface     | Interactive dashboards                           | **Tableau Public**          |
-| Data Preprocessing | Data cleaning and transformation                 | **Tableau Prep Builder**    |
+| Data Preprocessing | Data cleaning and transformation                 | Python (pandas, numpy)      |
 | Data Source        | Official UNESCO World Heritage dataset           | CSV format (2023 version)   |
 | Dashboard Features | Filters, drill-downs, tooltips, map interactions | Tableau’s interactive tools |
 
-
 📊 Key Visualizations
---Global Map View: Shows all UNESCO sites across countries with color-coded categories
---Top Countries by Site Count: Bar chart of countries with the most listed sites
---Site Type Distribution: Pie chart to show Cultural, Natural, and Mixed classifications
---Timeline Analysis: Tracks how many sites were added each year
---Interactive Filters: Users can filter by region, site type, year, or country
+•	Global Map View: Shows all UNESCO sites across countries with color-coded categories
+•	Top Countries by Site Count: Bar chart of countries with the most listed sites
+•	Site Type Distribution: Pie chart to show Cultural, Natural, and Mixed classifications
+•	Timeline Analysis: Tracks how many sites were added each year
+•	Interactive Filters: Users can filter by region, site type, year, or country
 
 📁 **Dataset**
---Source:[Dataset link](https://www.kaggle.com/datasets/ujwalkandi/unesco-world-heritage-sites/data?select=whc-sites-2019.csv)
---Format: CSV
---Attributes: Site Name, Country, Region, Category, Year of Inscription, Description, Coordinates, etc.
+•	Source:[Dataset link](https://www.kaggle.com/datasets/ujwalkandi/unesco-world-heritage-sites/data?select=whc-sites-2019.csv)
+•	Format: CSV
+•	Attributes: Site Name, Country, Region, Category, Year of Inscription, Description, Coordinates, etc.
 
 🚀 **How to View**
---You can view the dashboard on Tableau Public:
---🔗 [Click here to view the Dashboard](https://public.tableau.com/app/profile/akhila.polepalli/vizzes)
+•	You can view the dashboard on Tableau Public:
+•	🔗 [Click here to view the Dashboard](https://public.tableau.com/app/profile/akhila.polepalli/vizzes)
 
 🧠 **Insights Gained**
---Europe and Asia dominate the list of heritage sites
---Cultural sites form the majority of inscriptions
---Some countries have consistently had new additions over time, showing active heritage efforts
+•	Europe and Asia dominate the list of heritage sites
+•	Cultural sites form the majority of inscriptions
+•	Some countries have consistently had new additions over time, showing active heritage efforts
 
 📌 **Future Enhancements**
---Add a time slider to explore year-wise additions dynamically
---Integrate external data like tourism stats or conservation status
---Embed Tableau dashboard directly into a web application
+•	Add a time slider to explore year-wise additions dynamically
+•	Integrate external data like tourism stats or conservation status
+•	Embed Tableau dashboard directly into a web application
 
 👨‍💻 **Author Info**
---🧑‍💻 Name: Akhila Polepalli
---📧 Gmail: [Mail id](akhilapolepally19@gmail.com)
---🔗 LinkedIn: [We can Connect Here🤝](https://www.linkedin.com/in/akhilapolepally11/)
+•	🧑‍💻 Name: Akhila Polepalli
+•	📧 Gmail: [Mail id](akhilapolepally19@gmail.com)
+•	🔗 LinkedIn: [We can Connect Here🤝](https://www.linkedin.com/in/akhilapolepally11/)
 
 📜 **License**
 This project is created for academic and portfolio purposes. Feel free to fork or build upon it with credit.
