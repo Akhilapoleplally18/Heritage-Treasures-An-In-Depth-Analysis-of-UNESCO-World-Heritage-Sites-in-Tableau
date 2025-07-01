@@ -55,7 +55,9 @@ By combining data analysis with visual storytelling, **Heritage Treasures** not 
 
 📁 **Dataset**
 Source:[Dataset link](https://www.kaggle.com/datasets/ujwalkandi/unesco-world-heritage-sites/data?select=whc-sites-2019.csv)
+
 Format: CSV
+
 Attributes: Site Name, Country, Region, Category, Year of Inscription, Description, Coordinates, etc.
 
 🚀 **How to View**
@@ -73,8 +75,11 @@ You can view the dashboard on Tableau Public:
 --Embed Tableau dashboard directly into a web application
 
 👨‍💻 **Author Info**
+
 🧑‍💻 Name: Akhila Polepalli
+
 📧 Gmail: [Mail id](akhilapolepally19@gmail.com)
+
 🔗 LinkedIn: [We can Connect Here🤝](https://www.linkedin.com/in/akhilapolepally11/)
 
 📜 **License**
